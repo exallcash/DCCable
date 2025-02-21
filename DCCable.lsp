@@ -1,4 +1,6 @@
 
+// artem
+
 (setq fieldCounter 0)
 (setq scriptRuns 0)
 
